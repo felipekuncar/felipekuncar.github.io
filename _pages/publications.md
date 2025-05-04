@@ -16,9 +16,6 @@ author_profile: true
 
 ### Other Publications and Conference Presentations
 
-
-
-
-
-
-
+1.	Sepúlveda JJ, Bradley BA, **Kuncar F**, Lee RL (2025). Assessing the importance and variability of kappa0 in ground-motion simulations: A work in progress.	*New Zealand Society for Earthquake Engineering Annual Conference, Auckland, New Zealand*. 8 pp.	[[PDF]](https://felipe-kuncar.github.io/files/Other_Publitations/2025_Sepulveda_NZSEE.pdf) [Conference Paper]
+2.	**Kuncar F**, Bradley BA, de la Torre CA, Rodriguez-Marek A, Zhu C, Lee R (2024). Evaluating alternative site adjustment methods in hybrid broadband ground-motion simulations of small-magnitude earthquakes in New Zealand.	*QuakeCoRE: New Zealand Centre for Earthquake Resilience Annual Meeting*, Napier, New Zealand.	[[PDF]](https://felipe-kuncar.github.io/files/Other_Publitations/2024_Kuncar_QCAM.pdf) [Conference Poster]
+3.	**Kuncar F**, Bradley BA, de la Torre CA, Rodriguez-Marek A, Zhu C, Lee R (2024). Comparing and evaluating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulations. 	*8th International Conference on Earthquake Geotechnical Engineering*, Osaka, Japan. 6 pp.	[[PDF]](https://felipe-kuncar.github.io/files/Other_Publitations/2024_Kuncar_ICEGE.pdf) [[Link]](https://doi.org/10.3208/jgssp.v10.OS-36-04) [Conference Paper]
