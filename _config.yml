@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Felipe_Kuncar.JPG"
-  name             : "Felipe Kuncar"
+  name             : "Felipe Kuncar, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate"
+  bio              : "Postdoctoral Fellow"
   location         : "Christchurch, New Zealand"
   employer         : "University of Canterbury"
   uri              : # URL
-  email            : "kuncarg@gmail.com" 
+  email            : "felipe.kuncar@canterbury.ac.nz" 
 
   # Academic websites
   academia         : # URL
