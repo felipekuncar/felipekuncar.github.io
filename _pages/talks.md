@@ -8,16 +8,10 @@ author_profile: true
 
 Watch my Lightning Talk at the 2022 QuakeCoRE Annual Meeting:
 
-<a href="https://www.youtube.com/watch?v=Ola70Hbsi3s" target="_blank" 
-   style="position: relative; display: inline-block; width: 100%; max-width: 400px; text-decoration: none;">
-  
+<a href="https://www.youtube.com/watch?v=Ola70Hbsi3s" target="_blank">
   <img src="https://img.youtube.com/vi/Ola70Hbsi3s/maxresdefault.jpg" 
        alt="Watch the video" 
-       style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_play.svg" 
-       alt="Play Button"
-       style="position: absolute; top: 50%; left: 50%; width: 64px; height: 64px; transform: translate(-50%, -50%); opacity: 0.9; transition: opacity 0.3s;">
+       style="width: 100%; max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </a>
 
 Selected Talks
