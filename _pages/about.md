@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Postdoctoral Fellow at the [University of Canterbury](https://www.canterbury.ac.nz), in Christchurch, New Zealand.
+I am a Postdoctoral Fellow at the [University of Canterbury](https://www.canterbury.ac.nz), in Christchurch, New Zealand.
