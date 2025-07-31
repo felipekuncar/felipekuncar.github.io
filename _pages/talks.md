@@ -5,8 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-Watch my Lightning Talk at the 2022 QuakeCoRE Annual Meeting:
+For an intuitive overview of my PhD research, watch my Lightning Talk at the QuakeCoRE Annual Meeting (New Zealand, 2022):
 
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
@@ -21,7 +20,22 @@ Watch my Lightning Talk at the 2022 QuakeCoRE Annual Meeting:
   </div>
 </div>
 
-Selected Talks
+For a more technical description, see my presentation at the 8th International Conference on Earthquake Geotechnical Engineering (Japan, 2024):
+
+<div style="max-width: 500px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      src="https://www.youtube.com/watch?v=SKpF2nRC8E0" 
+      title="YouTube video player" 
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
+Other Presentations
 -------
 1.	Validating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand.	Monthly call, DT1: Integrated Seismic Geohazards, QuakeCoRE, 26 March 2025.	[[PDF]](https://felipekuncar.github.io/files/Talks/2025_QC_DT1.pdf)
 2.	Pathways to incorporate physics-based ground-motion modelling into the New Zealand National Seismic Hazard Model.	New Zealand National Seismic Hazard Model (NZ NSHM) Project Team Workshop, University of Canterbury, Christchurch, New Zealand, 20 May 2024.	[[PDF]](https://felipekuncar.github.io/files/Talks/2024_NZ_NSHM.pdf)
