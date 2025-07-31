@@ -24,13 +24,15 @@ For a more technical description, see my presentation at the 8th International C
 
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-    <iframe 
-      src="https://www.youtube.com/watch?v=SKpF2nRC8E0" 
-      title="YouTube video player" 
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/SKpF2nRC8E0"
+      title="YouTube video player"
       frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
 </div>
