@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-For an intuitive overview of my PhD research, watch my Lightning Talk at the QuakeCoRE Annual Meeting (New Zealand, 2022):
+For an intuitive overview of my PhD research, you can watch my Lightning Talk from the QuakeCoRE Annual Meeting (New Zealand, 2022):
 
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
@@ -20,7 +20,7 @@ For an intuitive overview of my PhD research, watch my Lightning Talk at the Qua
   </div>
 </div>
 
-For a more technical description, see my presentation at the 8th International Conference on Earthquake Geotechnical Engineering (Japan, 2024):
+For a more technical description, you can see my presentation from the 8th International Conference on Earthquake Geotechnical Engineering (Japan, 2024):
 
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
