@@ -37,6 +37,23 @@ For a more technical description, you can see my presentation from the 8th Inter
   </div>
 </div>
 
+Part of my current work as a Postdoctoral Fellow is showcased in the following one-minute Lightning Talk presented at the 2025 Statewide California Earthquake Center (SCEC) Annual Meeting:
+
+<div style="max-width: 500px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/SKpF2nRC8E0"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
 Other Presentations
 -------
 1.	Validating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand.	Monthly call, DT1: Integrated Seismic Geohazards, QuakeCoRE, 26 March 2025.	[[PDF]](https://felipekuncar.github.io/files/Talks/2025_QC_DT1.pdf)
