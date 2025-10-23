@@ -42,7 +42,7 @@ Part of my current work as a Postdoctoral Fellow is showcased in the following o
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
     <iframe
-      src="https://www.youtube-nocookie.com/embed/SKpF2nRC8E0"
+      src="https://www.youtube.com/watch?v=uNykXTo99kk"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
