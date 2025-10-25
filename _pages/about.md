@@ -15,8 +15,6 @@ Before beginning my PhD, I worked as a Project Engineer at [Ferrara](https://fer
 
 In 2025, I received the PhD Distinction Award from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
 
----
-
 ## Featured by the Natural Hazards Commission
  
 My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/), which has provided financial support for our work:
@@ -24,8 +22,6 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 [**Researcher’s work predicts how quakes shake different parts of NZ**](https://www.naturalhazards.govt.nz/news/researchers-work-predicts-how-quakes-shake-different-parts-of-nz/) (2025)
 
 [**Soil and small earthquakes help pave way for more resilient buildings**](https://www.naturalhazards.govt.nz/news/soil-and-small-earthquakes-help-pave-way-for-more-resilient-buildings/) (2023)
-
----
 
 ## Lightning Talks
 
@@ -44,7 +40,9 @@ For an intuitive overview of my PhD research, you can watch my Lightning Talk fr
   </div>
 </div>
 
-Part of my current work as a Postdoctoral Fellow is showcased in the following one-minute Lightning Talk presented at the 2025 Statewide California Earthquake Center (SCEC) Annual Meeting (United States):
+<p style="margin-top: 1.5em;">
+  Part of my current work as a Postdoctoral Fellow is showcased in the following one-minute Lightning Talk presented at the 2025 Statewide California Earthquake Center (SCEC) Annual Meeting (United States):
+</p>
 
 <div style="max-width: 500px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
@@ -60,5 +58,3 @@ Part of my current work as a Postdoctoral Fellow is showcased in the following o
     </iframe>
   </div>
 </div>
-
----
