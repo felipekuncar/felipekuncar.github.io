@@ -13,7 +13,7 @@ I hold a PhD in Earthquake Engineering from the [University of Canterbury](https
  
 Prior to starting my PhD, I was a Project Engineer at [Ferrara](https://ferrara.cl/) in Santiago, Chile, where I contributed to a wide range of geotechnical engineering projects nationwide, for buildings, industrial facilities, and renewable energy plants. My work involved leading site investigations, preparing geotechnical reports, assessing soil liquefaction potential, and designing deep foundations, ground improvement techniques, and support systems for deep excavations.
 
-In 2025, I received the PhD Distinction Award (10% theses) from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
+In 2025, I received the PhD Distinction Award (top % theses) from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
 
 ## Featured by the Natural Hazards Commission
  
