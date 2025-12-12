@@ -23,38 +23,13 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 
 [**Soil and small earthquakes help pave way for more resilient buildings**](https://www.naturalhazards.govt.nz/news/soil-and-small-earthquakes-help-pave-way-for-more-resilient-buildings/) (2023)
 
-## Lightning Talks
+## News
 
-For an intuitive overview of my PhD research, you can watch my Lightning Talk from the 2022 QuakeCoRE Annual Meeting (New Zealand):
+**12 Dec 2025** — I received the QuakeCoRE Proposal Development Grant to support the project "Integration of High-Resolution Basin Modelling for Advancing Physics-Based Ground-Motion Prediction" (Role: Principal Investigator).
 
-<div style="max-width: 500px; margin: 0 auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-    <iframe 
-      src="https://www.youtube.com/embed/Ola70Hbsi3s" 
-      title="YouTube video player" 
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
-</div>
+**15 Oct 2025** — Our paper ["Validating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand"](https://journals.sagepub.com/doi/10.1177/87552930251377784) has been published in [Earthquake Spectra](https://www.eeri.org/what-we-offer/about-earthquake-spectra).
 
-<p style="margin-top: 1.5em;">
-  Part of my current work as a Postdoctoral Fellow is showcased in the following one-minute Lightning Talk presented at the 2025 Statewide California Earthquake Center (SCEC) Annual Meeting (United States):
-</p>
+**7 Sept 2025** — At the 2025 [Statewide California Earthquake Center (SCEC)](https://central.scec.org/) Annual Meeting, I presented a poster titled ["Toward a unified database of hybrid broadband ground-motion simulations for historical Mw 3.5-7.8 crustal and subduction earthquakes in New Zealand"](https://central.scec.org/meetings/2025/am/poster/219). 
 
-<div style="max-width: 500px; margin: 0 auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/uNykXTo99kk"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      loading="lazy"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-  </div>
-</div>
+**25 Aug 2025** — I received the PhD Distinction Award (top 10% theses) from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury.
+
