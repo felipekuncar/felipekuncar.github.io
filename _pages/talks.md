@@ -5,6 +5,40 @@ permalink: /talks/
 author_profile: true
 ---
 
+For an intuitive overview of my PhD research, you can watch my Lightning Talk from the 2022 QuakeCoRE Annual Meeting (New Zealand):
+
+<div style="max-width: 500px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/Ola70Hbsi3s" 
+      title="YouTube video player" 
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
+<p style="margin-top: 1.5em;">
+  Part of my current work as a Postdoctoral Fellow is showcased in the following one-minute Lightning Talk presented at the 2025 Statewide California Earthquake Center (SCEC) Annual Meeting (United States):
+</p>
+
+<div style="max-width: 500px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/uNykXTo99kk"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
 My presentation from the 8th International Conference on Earthquake Geotechnical Engineering (Japan, 2024):
 
 <div style="max-width: 500px; margin: 0 auto;">
