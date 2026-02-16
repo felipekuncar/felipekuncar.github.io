@@ -25,7 +25,7 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 
 ## News
 
-**12 Dec 2025** — I received the QuakeCoRE Proposal Development Grant to support the project "Integration of High-Resolution Basin Modelling for Advancing Physics-Based Ground-Motion Prediction" (Role: Principal Investigator).
+**12 Dec 2025** — I received the [QuakeCoRE Proposal Development Grant](https://quakecore.nz/2025-rfps/) to support the project "Integration of High-Resolution Basin Modelling for Advancing Physics-Based Ground-Motion Prediction" (Role: Principal Investigator).
 
 **15 Oct 2025** — Our paper ["Validating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand"](https://journals.sagepub.com/doi/10.1177/87552930251377784) has been published in [Earthquake Spectra](https://www.eeri.org/what-we-offer/about-earthquake-spectra).
 
