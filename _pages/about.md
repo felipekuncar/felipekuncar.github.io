@@ -13,7 +13,7 @@ I hold a PhD in Earthquake Engineering from the [University of Canterbury](https
  
 Prior to starting my PhD, I was a Project Engineer at [Ferrara](https://ferrara.cl/) in Santiago, Chile, where I contributed to a wide range of geotechnical engineering projects nationwide, for buildings, industrial facilities, and renewable energy plants. My work involved leading site investigations, preparing geotechnical reports, assessing soil liquefaction potential, and designing deep foundations, ground improvement techniques, and support systems for deep excavations.
 
-In 2025, I received the PhD Distinction Award (top 10% theses) from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
+In 2025, I received the PhD Distinction Award from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury, in recognition of outstanding doctoral research. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
 
 ## Featured by the Natural Hazards Commission
  
@@ -33,5 +33,5 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 
 **7 Sept 2025** — At the 2025 [Statewide California Earthquake Center (SCEC)](https://central.scec.org/) Annual Meeting, I presented a poster titled ["Toward a unified database of hybrid broadband ground-motion simulations for historical Mw 3.5-7.8 crustal and subduction earthquakes in New Zealand"](https://central.scec.org/meetings/2025/am/poster/219). 
 
-**25 Aug 2025** — I received the PhD Distinction Award (top 10% theses) from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury.
+**25 Aug 2025** — I received the PhD Distinction Award, from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury, in recognition of outstanding doctoral research.
 
