@@ -31,7 +31,7 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 
 **15 Oct 2025** — Our paper ["Validating alternative methods to account for shallow site effects in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand"](https://journals.sagepub.com/doi/10.1177/87552930251377784) has been published in [Earthquake Spectra](https://www.eeri.org/what-we-offer/about-earthquake-spectra).
 
-**7 Sept 2025** — At the 2025 [Statewide California Earthquake Center (SCEC)](https://central.scec.org/) Annual Meeting, I presented a poster titled ["Toward a unified database of hybrid broadband ground-motion simulations for historical Mw 3.5-7.8 crustal and subduction earthquakes in New Zealand"](https://central.scec.org/meetings/2025/am/poster/219). 
+**7 Sept 2025** — I presented a poster titled ["Toward a unified database of hybrid broadband ground-motion simulations for historical Mw 3.5-7.8 crustal and subduction earthquakes in New Zealand"](https://central.scec.org/meetings/2025/am/poster/219) at the 2025 [Statewide California Earthquake Center (SCEC)](https://central.scec.org/) Annual Meeting.
 
 **25 Aug 2025** — I received the PhD Distinction Award, from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury, in recognition of outstanding doctoral research.
 
