@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a Postdoctoral Fellow at the [University of Canterbury](https://www.canterbury.ac.nz) in Christchurch, New Zealand, and an Emerging Investigator at [QuakeCoRE: New Zealand’s Centre for Earthquake Resilience](https://quakecore.nz/).
 
 My research lies at the intersection of geotechnical earthquake engineering and engineering seismology. By integrating observations from past earthquakes, geotechnical and geophysical data, and numerical simulations, I aim to improve our understanding and ability to predict ground motion and the response of geotechnical systems during seismic events. Ultimately, this work seeks to enhance earthquake resilience through the application of performance-based design.
