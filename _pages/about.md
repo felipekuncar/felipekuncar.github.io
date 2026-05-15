@@ -6,16 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Postdoctoral Fellow at the [University of Canterbury](https://www.canterbury.ac.nz) in Christchurch, New Zealand, and an Emerging Investigator at [QuakeCoRE: New Zealand’s Centre for Earthquake Resilience](https://quakecore.nz/).
 
-I am a Postdoctoral Fellow at the [University of Canterbury](https://www.canterbury.ac.nz) in Christchurch, New Zealand. My research lies at the intersection of geotechnical earthquake engineering and engineering seismology, aiming to advance our understanding and predictive capability of earthquake-induced ground motion and deformation. By integrating geotechnical data, observations from past earthquakes, and state-of-the-art numerical simulations, I seek to develop next-generation models and tools that improve seismic hazard analysis and earthquake design, ultimately enhancing the resilience of the built environment to future events.
+My research lies at the intersection of geotechnical earthquake engineering and engineering seismology. By integrating observations from past earthquakes, geotechnical and geophysical data, and numerical simulations, I seek to improve our understanding and ability to predict ground motion and the response of geotechnical systems during future seismic events, with the ultimate goal of enhancing earthquake resilience through performance-based design.
 
 I hold a PhD in Earthquake Engineering from the [University of Canterbury](https://www.canterbury.ac.nz), supervised by [Prof. Brendon Bradley](https://scholar.google.com/citations?user=k5w4RckAAAAJ&hl=en), and earned both my Master of Science and Professional Civil Engineering degrees from [Universidad Técnica Federico Santa María](https://usm.cl/en/home/) (Valparaíso, Chile). I also hold a Postgraduate Diploma in Tunnels and Underground Spaces from the [Universidad de Chile](https://uchile.cl/english) (Santiago, Chile), and have conducted research stays at [Virginia Tech](https://www.vt.edu/) and the [University of Arizona](https://www.arizona.edu/) in the United States.
- 
-Prior to starting my PhD, I was a Project Engineer at [Ferrara](https://ferrara.cl/) in Santiago, Chile, where I contributed to a wide range of geotechnical engineering projects nationwide, for buildings, industrial facilities, and renewable energy plants. My work involved leading site investigations, preparing geotechnical reports, assessing soil liquefaction potential, and designing deep foundations, ground improvement techniques, and support systems for deep excavations.
+
+Prior to starting my PhD, I worked as a Project Engineer at [Ferrara](https://ferrara.cl/) in Santiago, Chile, gaining broad experience in geotechnical engineering through projects involving buildings, mining facilities, and renewable energy developments.
 
 In 2025, I received the PhD Distinction Award from the [Department of Civil and Environmental Engineering](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/civil-and-natural-resources-engineering-department) at the University of Canterbury, in recognition of outstanding doctoral research. In 2023, I was the Judges’ Choice Award winner at the [QuakeCoRE](https://quakecore.nz/) Annual Meeting Lightning Talk competition, following a Runner-Up placement in 2022.
 
-## Featured by the Natural Hazards Commission
+## Featured by the New Zealand Natural Hazards Commission
  
 My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/), which has provided financial support for our work:
 
@@ -24,6 +25,8 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 [**Soil and small earthquakes help pave way for more resilient buildings**](https://www.naturalhazards.govt.nz/news/soil-and-small-earthquakes-help-pave-way-for-more-resilient-buildings/) (2023)
 
 ## News
+
+**01 June 2026** — I became an Emerging Investigator at [QuakeCoRE: New Zealand’s Centre for Earthquake Resilience](https://quakecore.nz/).
 
 **24 Feb 2026** — Our paper ["Validating VS30-based site amplification factors in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/esp4.70005) has been published in [Earthquake Spectra](https://onlinelibrary.wiley.com/journal/19448201).
 
