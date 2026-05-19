@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow at the [University of Canterbury](https://www.canterb
 
 I hold a PhD in Earthquake Engineering from the [University of Canterbury](https://www.canterbury.ac.nz), supervised by [Prof. Brendon Bradley](https://scholar.google.com/citations?user=k5w4RckAAAAJ&hl=en), and earned both my Master of Science and Professional Civil Engineering degrees from [Universidad Técnica Federico Santa María](https://usm.cl/en/home/) (Valparaíso, Chile). I also hold a Postgraduate Diploma in Tunnels and Underground Spaces from the [Universidad de Chile](https://uchile.cl/english) (Santiago, Chile), and have conducted research stays at [Virginia Tech](https://www.vt.edu/) and the [University of Arizona](https://www.arizona.edu/) in the United States. Prior to starting my PhD, I worked as a Project Engineer at [Ferrara](https://ferrara.cl/) in Santiago, Chile, gaining broad experience in geotechnical engineering through projects involving buildings, mining facilities, and renewable energy developments.
 
-My awards include the 2025 PhD Distinction Award from the Department of Civil and Environmental Engineering at the University of Canterbury for outstanding doctoral research, and the Judges’ Choice Award at the 2023 QuakeCoRE Annual Meeting Lightning Talk competition.
+My awards include the PhD Distinction Award (2025) from the Department of Civil and Environmental Engineering at the University of Canterbury, and the Judges’ Choice Award at the 2023 QuakeCoRE Annual Meeting Lightning Talk competition.
 
 ## Featured by the New Zealand Natural Hazards Commission
  
