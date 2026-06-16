@@ -23,7 +23,7 @@ My research has been highlighted by the [Natural Hazards Commission Toka Tū Ake
 
 ## News
 
-**15 June 2026** — Our paper ["Methods to account for shallow site effects in hybrid broadband ground-motion simulations"](https://onlinelibrary.wiley.com/doi/10.1177/87552930241301059)) has received the [2025 Outstanding Paper Award](https://www.eeri.org/about-eeri/news/30926-felipe-kuncar-and-authorship-team-receives-2025-outstanding-paper-award) from the Earthquake Engineering Research Institute (EERI). The award recognizes authors of Earthquake Spectra papers judged to be outstanding contributions to earthquake hazard mitigation. It is presented annually to one or two papers published in the journal. 
+**15 June 2026** — Our paper ["Methods to account for shallow site effects in hybrid broadband ground-motion simulations"](https://onlinelibrary.wiley.com/doi/10.1177/87552930241301059) has received the [2025 Outstanding Paper Award](https://www.eeri.org/about-eeri/news/30926-felipe-kuncar-and-authorship-team-receives-2025-outstanding-paper-award) from the Earthquake Engineering Research Institute (EERI). The award recognizes authors of Earthquake Spectra papers judged to be outstanding contributions to earthquake hazard mitigation. It is presented annually to one or two papers published in the journal. 
 
 **01 June 2026** — I became an Emerging Investigator of [QuakeCoRE: New Zealand’s Centre for Earthquake Resilience](https://quakecore.nz/).
 
