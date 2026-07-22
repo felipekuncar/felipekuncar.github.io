@@ -25,6 +25,8 @@ Our research has been highlighted by the [Natural Hazards Commission Toka Tū Ak
 
 ## News
 
+**18 July 2026** — From 13–17 July 2026, I attended the 13th National Conference on Earthquake Engineering (13NCEE) in Portland, Oregon, USA, where I served as a panelist in the [SCEC/USGS Workshop on Earthquake Ground Motion Simulation Validation & Utilization for Engineering Applications](https://www.scec.org/events/2026-scec-gm-svu-workshop), presented our work titled "Development of a Unified Database of Hybrid Broadband Ground-Motion Simulations for Historical Mw 3.5–7.8 Crustal and Subduction Earthquakes in New Zealand.", and received the [2025 Outstanding Paper Award](https://www.eeri.org/about-eeri/news/30926-felipe-kuncar-and-authorship-team-receives-2025-outstanding-paper-award) from the Earthquake Engineering Research Institute (EERI).
+
 **15 June 2026** — Our paper ["Methods to account for shallow site effects in hybrid broadband ground-motion simulations"](https://onlinelibrary.wiley.com/doi/10.1177/87552930241301059) has received the [2025 Outstanding Paper Award](https://www.eeri.org/about-eeri/news/30926-felipe-kuncar-and-authorship-team-receives-2025-outstanding-paper-award) from the Earthquake Engineering Research Institute (EERI). The award recognizes authors of Earthquake Spectra papers judged to be outstanding contributions to earthquake hazard mitigation. It is presented annually to one or two papers published in the journal. 
 
 **01 June 2026** — I became an Emerging Investigator of [QuakeCoRE: New Zealand’s Centre for Earthquake Resilience](https://quakecore.nz/).
