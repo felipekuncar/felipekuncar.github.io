@@ -8,7 +8,7 @@ author_profile: true
     li {font-size: 0.8em;}
 </style>
 
-### University of Canterbury
+### University of Canterbury, Christchurch, New Zealand
 *Department of Civil and Natural Resources Engineering*
 
 **ENCN454** — *Introduction to Geotechnical Earthquake Engineering*  
