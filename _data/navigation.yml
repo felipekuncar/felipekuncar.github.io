@@ -14,11 +14,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Talks"
+    url: /talks/    
     
   - title: "Code & Data"
     url: https://github.com/felipekuncar
