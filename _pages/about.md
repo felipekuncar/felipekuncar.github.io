@@ -25,6 +25,8 @@ Our research has been highlighted by the [Natural Hazards Commission Toka Tū Ak
 
 ## News
 
+**4 September 2026** — From 31 August–3 September, I attended the [2026 QuakeCoRE Annual Meeting](https://quakecore.nz/annual-meeting/) in Dunedin, New Zealand, where I gave a presentation on simulation validation at the NZ National Seismic Hazard Model (NSHM) Revision Workshop – Developer Plans and User Feedback, and presented the poster ["Validating hybrid broadband ground-motion simulation of moderate-magnitude active-shallow-crustal earthquakes in New Zealand"](https://www.felipekuncar.com/files/Other_Publications/2026_Kuncar_QCAM.pdf).
+
 **24 August 2026** — The Geotechnical Extreme Events Reconnaissance (GEER) report on the 2026 San Felipe and Catia La Mar Earthquakes in Venezuela has been published. I was pleased to contribute as one of its co-authors. Read the full report [here](https://geerassociation.org/?view=geerreports&id=117&layout=default).
 
 **18 July 2026** — From 13–17 July, I attended the 13th National Conference on Earthquake Engineering (13NCEE) in Portland, Oregon, USA, where I served as a panelist in the [SCEC/USGS Workshop on Earthquake Ground Motion Simulation Validation & Utilization for Engineering Applications](https://www.scec.org/events/2026-scec-gm-svu-workshop), presented our work titled ["Development of a Unified Database of Hybrid Broadband Ground-Motion Simulations for Historical Mw 3.5–7.8 Crustal and Subduction Earthquakes in New Zealand"](https://felipekuncar.github.io/files/Other_Publications/2026_Kuncar_13NCEE.pdf), and received the [2025 Outstanding Paper Award](https://www.eeri.org/about-eeri/news/30926-felipe-kuncar-and-authorship-team-receives-2025-outstanding-paper-award).
