@@ -12,7 +12,7 @@ author_profile: true
 *Department of Civil and Natural Resources Engineering*
 
 **ENCN454** — *Introduction to Geotechnical Earthquake Engineering*  
-Lecturer, site response module, 2026
+Lecturer, Module 2: Dynamic Behaviour of Soils and Site Response Analysis, 2026
 
 **ENCI335** — *Structural Analysis and Systems 1*  
-Invited lecturer, selected lectures in the structural dynamics module, 2024–2026
+Invited lecturer, selected lectures in Part I: Introductory Dynamic Analysis, 2024–2026
