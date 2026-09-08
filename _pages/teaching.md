@@ -9,13 +9,10 @@ author_profile: true
 </style>
 
 ### University of Canterbury
+*Department of Civil and Natural Resources Engineering*
 
-Department of Civil and Natural Resources Engineering
+**ENCN454** — *Introduction to Geotechnical Earthquake Engineering*  
+Lecturer, site response module, 2026
 
-**ENCN454 — Introduction to Geotechnical Earthquake Engineering**  
-Lecturer, 2026  
-Responsible for the site response module.
-
-**ENCI335 — Structural Analysis and Systems 1**  
-Invited lecturer, 2024–2026  
-Delivered selected lectures within the structural dynamics module.
+**ENCI335** — *Structural Analysis and Systems 1*  
+Invited lecturer, selected lectures in the structural dynamics module, 2024–2026
