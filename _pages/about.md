@@ -25,7 +25,7 @@ Our research has been highlighted by the [Natural Hazards Commission Toka Tū Ak
 
 ## News
 
-**28 October 2026** — I participated in the [Japan-Taiwan-New Zealand Seismic Hazard Assessment Meeting 2026](https://www.gns.cri.nz/news/jptwnz/), held in Wellington from 27 to 29 October, and gave a presentation titled "Towards a comprehensive validation of broadband ground-motion simulations in New Zealand".
+**28 October 2026** — I participated in the [2026 Japan-Taiwan-New Zealand Seismic Hazard Assessment Meeting](https://www.gns.cri.nz/news/jptwnz/), held in Wellington from 27 to 29 October, and gave a presentation titled "Towards a comprehensive validation of broadband ground-motion simulations in New Zealand".
 
 **27 October 2026** — Our new preprint, ["Ground-motion simulation of multi-segment ruptures on the Alpine-Marlborough fault system"](https://arxiv.org/abs/2610.33399), led by Brendon Bradley, is now available on arXiv.
 
