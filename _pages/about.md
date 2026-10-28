@@ -25,6 +25,10 @@ Our research has been highlighted by the [Natural Hazards Commission Toka Tū Ak
 
 ## News
 
+**28 October 2026** — I participated in the [Japan-Taiwan-New Zealand Seismic Hazard Assessment Meeting 2026](https://www.gns.cri.nz/news/jptwnz/), held in Wellington from 27 to 29 October, and gave a presentation titled "Towards a comprehensive validation of broadband ground-motion simulations in New Zealand".
+
+**27 October 2026** — Our new preprint, ["Ground-motion simulation of multi-segment ruptures on the Alpine-Marlborough fault system"](https://arxiv.org/abs/2610.33399), led by Brendon Bradley, is now available on arXiv.
+
 **4 September 2026** — From 31 August–3 September, I attended the [2026 QuakeCoRE Annual Meeting](https://quakecore.nz/annual-meeting/) in Dunedin, New Zealand, where I gave a presentation on simulation validation at the NZ National Seismic Hazard Model (NSHM) Revision Workshop – Developer Plans and User Feedback, and presented the poster ["Validating hybrid broadband ground-motion simulation of moderate-magnitude active-shallow-crustal earthquakes in New Zealand"](https://www.felipekuncar.com/files/Other_Publications/2026_Kuncar_QCAM.pdf).
 
 **24 August 2026** — The Geotechnical Extreme Events Reconnaissance (GEER) report on the 2026 San Felipe and Catia La Mar Earthquakes in Venezuela has been published. I was pleased to contribute as one of its co-authors. Read the full report [here](https://geerassociation.org/?view=geerreports&id=117&layout=default).
