@@ -58,7 +58,7 @@ My presentation from the 8th International Conference on Earthquake Geotechnical
 
 Other Presentations
 -------
-1.	Modelling site effects in hybrid broadband ground-motion simulation: insights from validation studies in New Zealand.	International Conference on Performance-Based Design in Earthquake Geotechnical Eangineering (PBD-V), 04 November 2026.	[[PDF]](https://felipekuncar.github.io/files/Talks/2026_PBD.pdf)
+1.	Modelling site effects in hybrid broadband ground-motion simulation: insights from validation studies in New Zealand.	International Conference on Performance-Based Design in Earthquake Geotechnical Eangineering (PBD-V), Puerto Varas, Chile, 04 November 2026.	[[PDF]](https://felipekuncar.github.io/files/Talks/2026_PBD.pdf)
 2.	Pathways to incorporate physics-based ground-motion modelling into the New Zealand National Seismic Hazard Model.	New Zealand National Seismic Hazard Model (NZ NSHM) Project Team Workshop, University of Canterbury, Christchurch, New Zealand, 20 May 2024.	[[PDF]](https://felipekuncar.github.io/files/Talks/2024_NZ_NSHM.pdf)
 3.	Modelling site effects in ground-motion simulations: learning from small earthquakes in New Zealand.	Chilean Society of Geotechnical Engineering (SOCHIGE), Santiago, Chile, 08 June 2023.	[[PDF]](https://felipekuncar.github.io/files/Talks/2023_SOCHIGE.pdf) [In Spanish]
 4. 	Geotechnical and structural design of support systems for urban deep excavations.	1rst Congress of Geotechnical Engineering, Mining and Seismicity (CIGEMIS), GeoGroup UNI (Perú), Online seminar, 05 May 2021.	[[PDF]](https://felipekuncar.github.io/files/Talks/2021_ICEGIMIS.pdf) [In Spanish]
